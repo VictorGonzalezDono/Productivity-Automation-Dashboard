@@ -20,3 +20,5 @@ Este proyecto nace de la necesidad de optimizar procesos administrativos y trans
 ## 📈 Resultados
 - Clasificación de más de **500 activos digitales** en segundos.
 - Visibilidad clara de las áreas de mayor carga administrativa (ej. Facturación vs. Logística).
+
+![Dashboard de Productividad](screenshots/Figure_1.png)
